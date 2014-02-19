@@ -1,6 +1,7 @@
-raspberrypi-projects
-====================
+Brighton Science Festival 2014
+==============================
 
+##Raspberry Pi Workshop##
 ##Minecraft Pi Projects##
 
 A lot of the code featured here is based off the work of Martin O'Hanlon at [Stuff About Code](http://www.stuffaboutcode.com/). Please visit his site and his [Github repository](https://github.com/martinohanlon) for many more awesome examples.
