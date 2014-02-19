@@ -7,17 +7,15 @@ A lot of the code featured here is based off the work of Martin O'Hanlon at [Stu
 
 **clear.py** - clear a space 25 blocks in all directions from the player's position, replacing the floor with stone.
 
-**trapped.py** - trap the player by surrounding him with the same kind of block as he is standing on.
-
-**free.py** - free the player from the above trap by replacing one wall with air.
-
-**magipi.py** - A simple demo of console messages and moving the player. As featured in [The MagPi magazine](http://www.themagpi.com/issue/issue-11/) Issue 11.
+**minecraft-magipi.py** - A simple demo of console messages and moving the player. As featured in [The MagPi magazine](http://www.themagpi.com/issue/issue-11/) Issue 11.
 
 **sphere.py** - Draws a radius 6 gold sphere in the air. Borrowed from Martin O'Hanlon I believe.
 
 **diamondsphere.py** - As above, but in diamond.
 
 **drawbuilding.py** - Draws a building 5 floors high with windows. Not sure where I got this from.
+
+**spiral_towers.py** - Creates a random collection of buildings. By Matthew Venn [Original repository](https://github.com/mattvenn/minecraft-pi)
 
 **Minecraft** - The minecraft python API folder. Included for ease of cloning.
 
