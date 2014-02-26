@@ -14,9 +14,15 @@ A lot of the code featured here is based off the work of Martin O'Hanlon at [Stu
 
 **diamondsphere.py** - As above, but in diamond.
 
+**lavasphere.py** - As before, except this time in lava. That then starts to flow!
+
+**small_lavasphere.py** - As above, but only radius 3. Makes less of a mess.. possibly.
+
 **drawbuilding.py** - Draws a building 5 floors high with windows. Not sure where I got this from.
 
 **spiral_towers.py** - Creates a random collection of buildings. By Matthew Venn [Original repository](https://github.com/mattvenn/minecraft-pi)
+
+**diamond_towers.py** - As above but with the stone replaced by diamond. More bling!
 
 **Minecraft** - The minecraft python API folder. Included for ease of cloning.
 
